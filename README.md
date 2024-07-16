@@ -1,5 +1,5 @@
 # ConcurrentProj
-There is nothing in the syllabus suggesting that I cannot post this code, only that current students in the class are not allowed to reuse it without being penalized. Thus, I will include one homework which resulted in a really cool little project which shows the usages of this class.
+I wanted to share one homework from this class which resulted in a really cool little project, a chatroom. I really enjoyed this project, as I was able to code for a real time communication example which potentially a large number of processes.
 
 The homework consisted of finishing code for a client, server, and chatroom in which each process will include a nickname for the client and chatrooms the client is connected to. Clients can join chats, leave chats, create a new nickname, send messages in chatrooms, use "/whoami" which returns the client's nickname,  and can quit the software "/quit" without disturbing other processes.
 
